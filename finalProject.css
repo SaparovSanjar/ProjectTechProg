@@ -1,0 +1,23 @@
+.page-title {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    font-family: "Verdana", sans-serif;
+    text-align: center;
+  }
+
+.new{
+    margin-right: 10px;
+    vertical-align: top;
+    border-radius: 10px;
+  }
+
+
+.result {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    font-family: "Verdana", sans-serif;
+    text-align: center;
+    width: 800px;
+  }
